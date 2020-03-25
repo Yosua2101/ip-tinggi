@@ -3,3 +3,5 @@ ip-tinggi
 - ini coba coba doangss
 - kurang tidaq menariq
 - Moga bisa PHP
+- HTML bukan bahasa pemrogrman
+-Html bukan beneren
