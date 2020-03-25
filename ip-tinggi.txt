@@ -3,4 +3,6 @@ ip-tinggi
 - ini coba coba doangss
 - kurang tidaq menariq
 - Moga bisa PHP
-- HTML adalah bahasa Pemrograman
+- HTML bukan bahasa pemrogrman
+-Html bukan beneren
+
