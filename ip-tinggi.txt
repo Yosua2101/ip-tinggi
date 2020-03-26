@@ -6,4 +6,6 @@ ip-tinggi
 - HTML bukan bahasa pemrogrman
 -Html bukan beneren
 -Yes
+-i like
+
 
