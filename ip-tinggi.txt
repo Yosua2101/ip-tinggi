@@ -9,5 +9,6 @@ ip-tinggi
 - i like
 - i like it a lot
 - i really really like it
+- Wow
 
 
