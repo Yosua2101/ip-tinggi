@@ -4,9 +4,10 @@ ip-tinggi
 - kurang tidaq menariq
 - Moga bisa PHP
 - HTML bukan bahasa pemrogrman
--Html bukan beneren
--Yes
--i like
--i like it a lot
+- Html bukan beneren
+- Yes
+- i like
+- i like it a lot
+- i really really like it
 
 
